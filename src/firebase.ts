@@ -4,13 +4,13 @@ import { getFirestore, Firestore } from "firebase/firestore";
 import { getAnalytics, Analytics } from "firebase/analytics";
 
 const firebaseConfig: FirebaseOptions = {
-  apiKey: "AIzaSyA2QOWhEneTK7WScDz4kQjFZlmoYWA3cuk",
-  authDomain: "react-chat-4c0a6.firebaseapp.com",
-  projectId: "react-chat-4c0a6",
-  storageBucket: "react-chat-4c0a6.firebasestorage.app",
-  messagingSenderId: "428624840296",
-  appId: "1:428624840296:web:9952c1950745758609dddd",
-  measurementId: "G-ECGGY3Y4NQ"
+  apiKey: "APIKEY",
+  authDomain: "....firebaseapp.com",
+  projectId: "PROJECT-ID",
+  storageBucket: "PROJECTID.firebasestorage.app",
+  messagingSenderId: "SENDERID",
+  appid",
+  measurementId: "MeasureID"
 };
 
 const app = initializeApp(firebaseConfig);
